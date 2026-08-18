@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/moonflower-dusk-banner.png" width="760" alt="Anime dusk sky with a flower holding a pink moon" />
+  <img src="assets/moonflower-dusk-banner-short.png" width="100%" alt="Anime dusk sky with a flower holding a pink moon" />
 </p>
 
 <img src="assets/profile-intro.svg" width="520" alt="Nero1l — always learning, occasionally overfitting; UESTC graduate and Monash AI master's student" />

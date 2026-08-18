@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="620" height="400" viewBox="0 0 620 400" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="330" viewBox="0 0 620 330" role="img" aria-labelledby="title desc">
   <title id="title">Nero1l profile introduction</title>
   <desc id="desc">Always learning, occasionally overfitting. Bachelor's degree from UESTC. Master of Artificial Intelligence in progress at Monash University.</desc>
 
@@ -6,32 +6,32 @@
     .title {
       fill: #2f3560;
       font-family: Georgia, "Times New Roman", serif;
-      font-size: 54px;
+      font-size: 38px;
       font-weight: 400;
     }
     .zh {
       fill: #2f3560;
       font-family: "Songti SC", "STSong", "Noto Serif CJK SC", "Source Han Serif SC", serif;
-      font-size: 22px;
+      font-size: 18px;
       font-weight: 400;
     }
     .en {
       fill: #9c93bd;
       font-family: Baskerville, Georgia, "Times New Roman", serif;
-      font-size: 19px;
+      font-size: 16px;
       font-style: italic;
     }
   </style>
 
-  <text class="title" x="8" y="58">Nero1l</text>
+  <text class="title" x="8" y="43">Nero1l</text>
 
-  <text class="zh" x="8" y="116">正在学习，偶尔过拟合。</text>
-  <text class="en" x="8" y="150">Always learning. Occasionally overfitting.</text>
+  <text class="zh" x="8" y="91">正在学习，偶尔过拟合。</text>
+  <text class="en" x="8" y="119">Always learning. Occasionally overfitting.</text>
 
-  <text class="zh" x="8" y="220">电子科技大学 UESTC · 本科</text>
-  <text class="en" x="8" y="253">Bachelor's degree, University of Electronic Science and</text>
-  <text class="en" x="8" y="279">Technology of China</text>
+  <text class="zh" x="8" y="181">电子科技大学 UESTC · 本科</text>
+  <text class="en" x="8" y="208">Bachelor's degree, University of Electronic Science and</text>
+  <text class="en" x="8" y="230">Technology of China</text>
 
-  <text class="zh" x="8" y="341">蒙纳士大学 Monash University · 人工智能硕士在读</text>
-  <text class="en" x="8" y="376">Master of Artificial Intelligence, in progress</text>
+  <text class="zh" x="8" y="287">蒙纳士大学 Monash University · 人工智能硕士在读</text>
+  <text class="en" x="8" y="315">Master of Artificial Intelligence, in progress</text>
 </svg>
