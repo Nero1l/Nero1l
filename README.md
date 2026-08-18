@@ -1,7 +1,8 @@
-<img src="assets/moonflower-dusk-panel.png" align="right" width="285" alt="Pink moon resting on a flower beneath a violet dusk sky" />
-<img src="assets/profile-intro.svg" width="540" alt="Nero1l — always learning, occasionally overfitting; UESTC graduate and Monash AI master's student" />
+<p align="center">
+  <img src="assets/moonflower-dusk-banner.png" width="760" alt="Anime dusk sky with a flower holding a pink moon" />
+</p>
 
-<br clear="right" />
+<img src="assets/profile-intro.svg" width="520" alt="Nero1l — always learning, occasionally overfitting; UESTC graduate and Monash AI master's student" />
 
 ---
 
