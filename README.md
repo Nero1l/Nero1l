@@ -1,7 +1,9 @@
+<img src="assets/moonflower-dusk-banner.png" width="100%" alt="Anime dusk sky with a flower holding a pink moon" />
+
 # Nero1l
 
-举一朵花，接住月亮
-*Holding up a flower to catch the moon.*
+正在学习，偶尔过拟合。
+*Always learning. Occasionally overfitting.*
 
 电子科技大学 UESTC · 本科
 *Bachelor's degree, University of Electronic Science and Technology of China*
@@ -49,8 +51,8 @@
 
 <img src="https://streak-stats.demolab.com?user=Nero1l&hide_border=true&border_radius=8&background=2F3560&ring=E8A4A0&fire=E8A4A0&currStreakLabel=E8A4A0&sideLabels=B3AFD4&dates=8E8ABA&sideNums=FFFFFF&currStreakNum=FFFFFF&dateFormat=M%20j%5B,%20Y%5D" alt="streak stats" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nero1l&show_icons=true&hide_border=true&border_radius=8&bg_color=2F3560&title_color=E8A4A0&icon_color=E8A4A0&text_color=D6D3EA&ring_color=E8A4A0" height="165" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nero1l&layout=compact&hide_border=true&border_radius=8&bg_color=2F3560&title_color=E8A4A0&text_color=D6D3EA" height="165" alt="top languages" />
+<img src="./profile/stats.svg" height="165" alt="GitHub stats" />
+<img src="./profile/top-langs.svg" height="165" alt="Top languages" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nero1l/Nero1l/output/github-snake-dark.svg" />
@@ -62,8 +64,8 @@
 
 ---
 
-暮色正好，欢迎来信。
-*The light is good at dusk — write anytime.*
+生命久如暗室，不妨碍我明写春诗
+*Life may be a long dark room; still, I write spring into verse.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-Nero1l-2f3560?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nero1l)
 [![Email](https://img.shields.io/badge/wangpeirui67@gmail.com-e8a4a0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wangpeirui67@gmail.com)
