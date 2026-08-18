@@ -1,15 +1,7 @@
-<img src="assets/moonflower-dusk-banner.png" width="100%" alt="Anime dusk sky with a flower holding a pink moon" />
+<img src="assets/moonflower-dusk-panel.png" align="right" width="285" alt="Pink moon resting on a flower beneath a violet dusk sky" />
+<img src="assets/profile-intro.svg" width="540" alt="Nero1l — always learning, occasionally overfitting; UESTC graduate and Monash AI master's student" />
 
-# Nero1l
-
-正在学习，偶尔过拟合。
-*Always learning. Occasionally overfitting.*
-
-电子科技大学 UESTC · 本科
-*Bachelor's degree, University of Electronic Science and Technology of China*
-
-蒙纳士大学 Monash University · 人工智能硕士在读
-*Master of Artificial Intelligence, in progress*
+<br clear="right" />
 
 ---
 
@@ -45,14 +37,11 @@
 
 ---
 
-### 提交记录 · Contributions
+<img src="assets/contributions-heading.svg" width="390" alt="提交记录 · Contributions" />
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Nero1l&hide_border=true&border_radius=8&background=2F3560&ring=E8A4A0&fire=E8A4A0&currStreakLabel=E8A4A0&sideLabels=B3AFD4&dates=8E8ABA&sideNums=FFFFFF&currStreakNum=FFFFFF&dateFormat=M%20j%5B,%20Y%5D" alt="streak stats" />
-
-<img src="./profile/stats.svg" height="165" alt="GitHub stats" />
-<img src="./profile/top-langs.svg" height="165" alt="Top languages" />
+<img src="https://streak-stats.demolab.com?user=Nero1l&hide_border=true&border_radius=8&background=2F3560&ring=E8A4A0&fire=E8A4A0&currStreakLabel=E8A4A0&sideLabels=B3AFD4&dates=8E8ABA&sideNums=FFFFFF&currStreakNum=FFFFFF&dateFormat=M%20j%5B,%20Y%5D&card_width=720" width="720" alt="Total contributions, current streak, and longest streak" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nero1l/Nero1l/output/github-snake-dark.svg" />

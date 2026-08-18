@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="470" viewBox="0 0 620 470" role="img" aria-labelledby="title desc">
+  <title id="title">Nero1l profile introduction</title>
+  <desc id="desc">Always learning, occasionally overfitting. Bachelor's degree from UESTC. Master of Artificial Intelligence in progress at Monash University.</desc>
+
+  <style>
+    .title {
+      fill: #2f3560;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 76px;
+      font-weight: 400;
+    }
+    .zh {
+      fill: #2f3560;
+      font-family: "Songti SC", "STSong", "Noto Serif CJK SC", "Source Han Serif SC", serif;
+      font-size: 27px;
+      font-weight: 400;
+    }
+    .en {
+      fill: #9c93bd;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 23px;
+      font-style: italic;
+    }
+  </style>
+
+  <text class="title" x="8" y="78">Nero1l</text>
+
+  <text class="zh" x="8" y="151">正在学习，偶尔过拟合。</text>
+  <text class="en" x="8" y="193">Always learning. Occasionally overfitting.</text>
+
+  <text class="zh" x="8" y="273">电子科技大学 UESTC · 本科</text>
+  <text class="en" x="8" y="315">Bachelor's degree, University of Electronic Science and</text>
+  <text class="en" x="8" y="347">Technology of China</text>
+
+  <text class="zh" x="8" y="419">蒙纳士大学 Monash University · 人工智能硕士在读</text>
+  <text class="en" x="8" y="459">Master of Artificial Intelligence, in progress</text>
+</svg>
